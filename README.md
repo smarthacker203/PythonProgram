@@ -1,6 +1,5 @@
-# 🐍✨ Welcome to My Python Playground! ✨🐍
-Hi there! 👋
-I'm a passionate Pythonista who loves to turn coffee ☕ into code 💻. Whether it's automating boring stuff, building cool scripts, or just experimenting with new libraries—this is where the magic happens! ✨🐍
+Hi there!
+I'm a passionate Pythonista who loves to turn coffee ☕ into code. Whether it's automating boring stuff, building cool scripts, or just experimenting with new libraries—this is where the magic happens!
 
 🚀 What You'll Find Here
 🧠 Mini Projects – Small but mighty code projects that solve real problems.
@@ -19,16 +18,8 @@ I'm a passionate Pythonista who loves to turn coffee ☕ into code 💻. Whether
 
 🤖 Bots and simple AI experiments
 
-🧰 Tools I Use
-Python 3.x 🐍
 
-VS Code 💙
-
-Git & GitHub 🌐
-
-And a healthy dose of curiosity! 🌈
-
-🐾 Let’s Connect
-Wanna chat code or collaborate on a project? Feel free to reach out or fork a repo and have fun with it! 🚀
+Let’s Connect
+Wanna chat code or collaborate on a project? Feel free to reach out or fork a repo and have fun with it!
 And if you like something here, don't forget to ⭐️ it – it makes my day!
 
